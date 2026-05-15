@@ -4,7 +4,7 @@ Estudiante de Ingeniería Informática en INACAP.
 Me gusta construir cosas que resuelven problemas reales.
 
 ## 🛠 Stack
-Python · Django · React · Node.js · Docker · MariaDB
+Python · Django · React · Astro · Node.js · Docker · MariaDB
 
 ## 🚀 Proyectos destacados
 - [decargar-facturas-sii](https://github.com/nbazaes/descargar-facturas-sii) — Script python para descargar facturas recibidas del SII
@@ -13,4 +13,4 @@ Python · Django · React · Node.js · Docker · MariaDB
 - [django-bazpos](https://github.com/nbazaes/django-bazpos) — POS completo en Django
 
 ## 📬 Contacto
-contact@nbazaes.dev · [nbazaes.dev](https://nbazaes.dev)
+nbazaes@bazaes.cl · [nbazaes.dev](https://nbazaes.dev)
