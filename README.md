@@ -5,11 +5,11 @@ Me gusta construir cosas que resuelven problemas reales.
 
 ## 🛠 Stack
 
-Python · Django · Astro · React · Node.js · Docker · MariaDB
+Python · Django · Astro · React · Node.js · Docker · MariaDB · PostgreSQL
 
 ## 🚀 Proyectos destacados
 
-- [webconstAD](https://gitlab.com/constantdigitales/webconstad-cloudflare)  - Web en producción para venta de archivos digitales de artista local ([Visitar](constantdigitales.com))
+- [webconstAD](https://gitlab.com/constantdigitales/webconstad-cloudflare)  - Web en producción para venta de archivos digitales de artista local ([Visitar](https://constantdigitales.com))
 - [markit-desktop](https://github.com/nbazaes/markit-desktop) - GUI moderna construida en Tauri para el programa [markitdown](https://github.com/microsoft/markitdown) de Microsoft  
 - [decargar-facturas-sii](https://github.com/nbazaes/descargar-facturas-sii) — Script python para descargar facturas recibidas del SII
 - [Discursantes](https://github.com/nbazaes/discursantes_react) — App fullstack para gestionar discursos dominicales
@@ -21,4 +21,5 @@ Python · Django · Astro · React · Node.js · Docker · MariaDB
 - [linux-kernel](https://github.com/microsoft/markitdown) - Mis contribuciones al kernel de Linux
 
 ## 📬 Contacto
+
 <nbazaes@bazaes.cl> · [nbazaes.dev](https://nbazaes.dev)
