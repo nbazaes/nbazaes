@@ -45,3 +45,7 @@ The [contribution record](https://github.com/nbazaes/linux-kernel-patches) docum
 ## Say hello
 
 I'm happy to talk about development opportunities, a project you need help with, or Linux and self-hosting. You can explore my [personal website](https://nbazaes.dev), including its interactive terminal, or reach me at [nbazaes@bazaes.cl](mailto:nbazaes@bazaes.cl).
+
+## What I believe in
+
+I care about open source, free software, and decentralization. I value the freedom to understand how software works, modify it, and share it with others. I like being able to host my own services and have a say in where my data lives. These ideas are part of what draws me to Linux and keeps me building things.
